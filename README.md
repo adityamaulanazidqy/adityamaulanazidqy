@@ -50,6 +50,10 @@ A sample of my recent articles:
 <a href="https://github.com/adityamaulanazidqy/go-pharmacy-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=go-pharmacy-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<a href="https://github.com/adityamaulanazidqy/libraryschool-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=libraryschool-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
