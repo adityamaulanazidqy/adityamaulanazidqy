@@ -84,6 +84,8 @@
 
 ###
 
+## 🎧 Favorite Songs
+
 <div align="center">
   <a href="https://open.spotify.com/user/3137f75fv5z6cejf7rcb7y44ooaa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=3137f75fv5z6cejf7rcb7y44ooaa&count=5" alt="Spotify recently played"  />
@@ -91,6 +93,8 @@
 </div>
 
 ###
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityamaulanazidqy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -120,5 +124,4 @@
 
 <a href="https://github.com/adityamaulanazidqy/go-pharmacy-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=go-pharmacy-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-###
+</a>
