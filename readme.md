@@ -8,6 +8,8 @@
 
 ## 🔧 Technologies & Tools
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -38,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+###
+
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Fiber-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Gin_Gonic-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
@@ -66,7 +70,8 @@
 
 ###
 
-## 🌐 Social Media
+### 🌐 Social Media
+
 
 <div align="left">
   <a href="https://www.instagram.com/zidqy.notnaughty_/" target="_blank">
