@@ -6,9 +6,7 @@
 
 ###
 
-<h2 align="left">Tecnology</h2>
-
-###
+## 🔧 Technologies & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -40,11 +38,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Fiber-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Gin_Gonic-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat&logo=goland&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/UI-DataGrid-informational?style=flat&logo=datagrip&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA_Ultimate-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2sxbHRobjA1cTg5MW5yOXF0ejV6eXVkODVldno5bmhheWJvMXZsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
+
+## 🌐 Social Media
 
 <div align="left">
   <a href="https://www.instagram.com/zidqy.notnaughty_/" target="_blank">
@@ -84,7 +106,19 @@
 </picture>
 
 ###
+<a href="https://github.com/adityamaulanazidqy/go-libraryschool-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=go-libraryschool-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
 
-![Medium](https://github-readme-medium.vercel.app/?username=adityamaulanazidqy)
+<a href="https://github.com/adityamaulanazidqy/go-ourproject-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=go-ourproject-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
+<a href="https://github.com/adityamaulanazidqy/libraryschool-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=libraryschool-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/adityamaulanazidqy/go-pharmacy-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=go-pharmacy-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 ###
