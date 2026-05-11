@@ -1,145 +1,194 @@
-<h2 align="left">👾 Hey there! I'm Zidqy — just a guy who loves turning coffee and code into cool stuff. Welcome to my world of bugs, builds, and breakthroughs!</h2>
+<h1 align="center">Hi 👋, I'm Aditya Maulana Zidqy</h1>
+<h3 align="center">Backend Developer specializing in Golang</h3>
 
-###
+<p align="center">
+  <em>
+    Passionate about building scalable backend systems, RESTful APIs,
+    and high-performance applications using Go.
+  </em>
+</p>
 
-<h6 align="left">👨‍🎓 SMK student on a mission to turn ideas into code — currently building an e-commerce website with Go!</h6>
+<p align="center">
+  Currently pursuing a Bachelor's Degree in Informatics Engineering at <strong>ITATS Surabaya</strong><br>
+  Focused on Backend Development with <strong>Golang</strong><br>
+  Interested in System Architecture, Databases, and Cloud Infrastructure
+</p>
 
-###
+---
 
-## 🔧 Technologies & Tools
+## About Me
 
-###
+- Currently building robust backend applications and REST APIs with Golang
+- Continuously learning advanced software architecture and distributed systems
+- Experienced with PostgreSQL, Redis, Docker, and API documentation
+- Exploring scalable system design and clean architecture principles
+- Goal: Becoming a professional Software Engineer specializing in Backend Development
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+---
 
-###
+## Tech Stack
 
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Fiber-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Gin_Gonic-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/API-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat&logo=goland&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/UI-DataGrid-informational?style=flat&logo=datagrip&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA_Ultimate-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,docker,postgres,redis,mysql" />
+</p>
 
-###
+### Mobile & Other Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dart,flutter,javascript" />
+</p>
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2sxbHRobjA1cTg5MW5yOXF0ejV6eXVkODVldno5bmhheWJvMXZsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
+### Tools & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman" />
+</p>
 
-###
+---
 
-### 🌐 Social Media
+## Core Expertise
 
+- RESTful API Development
+- Clean Architecture
+- Database Design & Optimization
+- Authentication & Authorization
+- Docker Containerization
+- API Documentation with Swagger/OpenAPI
+- Performance Optimization
+- Microservices Fundamentals
 
-<div align="left">
+---
+
+## Featured Projects
+
+### Library School API
+Backend system for library management built with Golang.
+
+### E-Commerce Backend
+Scalable backend architecture for modern e-commerce applications.
+
+### Library School Mobile App
+Flutter-based mobile application integrated with a Go backend.
+
+---
+
+## Connect with Me
+
+<p align="left">
   <a href="https://www.instagram.com/zidqy.notnaughty_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/1365365561600512051" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:adityamaullana234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="adityamaullana234@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://github.com/adityamaulanazidqy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
+</p>
 
-###
+---
 
-## 🎧 Favorite Songs
+## GitHub Statistics
 
 <div align="center">
-  <a href="https://open.spotify.com/user/3137f75fv5z6cejf7rcb7y44ooaa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3137f75fv5z6cejf7rcb7y44ooaa&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=adityamaulanazidqy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=adityamaulanazidqy&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="80%"
+  />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamaulanazidqy&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityamaulanazidqy&theme=tokyonight"
+    alt="Profile Details"
+    width="80%"
+  />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityamaulanazidqy&show_icons=true&include_all_commits=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats Graph" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=adityamaulanazidqy&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages Graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityamaulanazidqy&theme=tokyonight"
+    alt="Repos per Language"
+    width="39%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityamaulanazidqy&theme=tokyonight"
+    alt="Most Commit Language"
+    width="39%"
+  />
 </div>
 
-###
+---
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamaulanazidqy&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityamaulanazidqy/adityamaulanazidqy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityamaulanazidqy/adityamaulanazidqy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adityamaulanazidqy/adityamaulanazidqy/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/adityamaulanazidqy/adityamaulanazidqy/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/adityamaulanazidqy/adityamaulanazidqy/output/pacman-contribution-graph.svg" />
+  <img alt="Contribution Graph"
+    src="https://raw.githubusercontent.com/adityamaulanazidqy/adityamaulanazidqy/output/pacman-contribution-graph.svg" />
 </picture>
 
-###
-<a href="https://github.com/adityamaulanazidqy/go-libraryschool-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=go-libraryschool-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
+---
 
-<a href="https://github.com/adityamaulanazidqy/go-ourproject-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=go-ourproject-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+## Achievements
 
-<a href="https://github.com/adityamaulanazidqy/libraryschool-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=libraryschool-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=adityamaulanazidqy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</div>
 
-<a href="https://github.com/adityamaulanazidqy/go-coursework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamaulanazidqy&repo=go-coursework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+---
+
+## Profile Views
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=adityamaulanazidqy&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Random Developer Quote"
+  />
+</div>
+
+---
+
+## Current Focus
+
+```text
+Building scalable backend applications with Golang
+Mastering Clean Architecture & Domain-Driven Design
+Deep diving into PostgreSQL performance optimization
+Learning Docker, CI/CD, and Cloud Infrastructure
+Pursuing a Bachelor's Degree in Informatics Engineering at ITATS Surabaya
+```
+
+## Personal Motto
+
+> "Great software is built with clean code, thoughtful architecture, and continuous learning."
